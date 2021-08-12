@@ -2,7 +2,7 @@ fx_version 'cerulean'
 game 'gta5'
 
 author 'McEwan'
-description 'cars init mate'
+description 'Compiled Base Handling of Vanilla cars'
 version '1.0'
 
 

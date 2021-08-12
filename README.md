@@ -1,2 +1,14 @@
 # BaseHandle
-A complied Handling.meta of base GTA Vehicles from all DLC at the time of compilation 
+A complied handling meta for all base game cars at the time of release.
+
+Installation
+-Download
+-Drop BaseHandle into rescources
+-Ensure BaseHandle in server.cfg
+
+
+
+
+
+TODO
+-Add Tuner cars
